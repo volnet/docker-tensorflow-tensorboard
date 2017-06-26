@@ -1,4 +1,4 @@
-FROM volnet/tf-notebook
+FROM volnet/tensorflow-jupyter
 
 MAINTAINER Craig Citro <craigcitro@google.com>
 
